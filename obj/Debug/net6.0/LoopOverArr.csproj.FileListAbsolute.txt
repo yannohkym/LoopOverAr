@@ -1,0 +1,15 @@
+C:\Users\25474\source\repos\LoopOverArr\bin\Debug\net6.0\LoopOverArr.exe
+C:\Users\25474\source\repos\LoopOverArr\bin\Debug\net6.0\LoopOverArr.deps.json
+C:\Users\25474\source\repos\LoopOverArr\bin\Debug\net6.0\LoopOverArr.runtimeconfig.json
+C:\Users\25474\source\repos\LoopOverArr\bin\Debug\net6.0\LoopOverArr.dll
+C:\Users\25474\source\repos\LoopOverArr\bin\Debug\net6.0\LoopOverArr.pdb
+C:\Users\25474\source\repos\LoopOverArr\obj\Debug\net6.0\LoopOverArr.csproj.AssemblyReference.cache
+C:\Users\25474\source\repos\LoopOverArr\obj\Debug\net6.0\LoopOverArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25474\source\repos\LoopOverArr\obj\Debug\net6.0\LoopOverArr.AssemblyInfoInputs.cache
+C:\Users\25474\source\repos\LoopOverArr\obj\Debug\net6.0\LoopOverArr.AssemblyInfo.cs
+C:\Users\25474\source\repos\LoopOverArr\obj\Debug\net6.0\LoopOverArr.csproj.CoreCompileInputs.cache
+C:\Users\25474\source\repos\LoopOverArr\obj\Debug\net6.0\LoopOverArr.dll
+C:\Users\25474\source\repos\LoopOverArr\obj\Debug\net6.0\refint\LoopOverArr.dll
+C:\Users\25474\source\repos\LoopOverArr\obj\Debug\net6.0\LoopOverArr.pdb
+C:\Users\25474\source\repos\LoopOverArr\obj\Debug\net6.0\LoopOverArr.genruntimeconfig.cache
+C:\Users\25474\source\repos\LoopOverArr\obj\Debug\net6.0\ref\LoopOverArr.dll
